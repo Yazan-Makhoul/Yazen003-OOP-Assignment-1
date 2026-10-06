@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yazen003-OOP-Assignment-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df3b7615011266172599c296c2425a66e7e40aaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bc887cb4b437592f8fceb3c756ca70118c804ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yazen003-OOP-Assignment-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yazen003-OOP-Assignment-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
